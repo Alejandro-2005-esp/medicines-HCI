@@ -1,0 +1,11 @@
+/*en una terminal de git bash:*/
+
+cd medicines
+npm install
+/*si sigue sin funcionar instale:*/
+npm install lucide-react
+npm install @radix-ui/react-menubar
+
+y luego
+
+npm run dev para ejecutar
